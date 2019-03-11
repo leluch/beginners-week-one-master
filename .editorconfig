@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 root = true
 [*]
 indent_style = space
@@ -24,5 +24,3 @@ insert_final_newline = true
 indent_size = 4
 [*.md]
 trim_trailing_whitespace = false
->>>>>>> ecc1922849a7281b50799c6a79a5fb901b28359d
-#

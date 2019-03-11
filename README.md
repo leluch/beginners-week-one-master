@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CFG Week One
 ## Intro to the world of the web and HTML
 
@@ -19,7 +19,7 @@ Open the file `index.html` in your text editor and in Chrome, change it into val
 
 ## Extension task
 Create a new file called `html-cheatsheet.html`. In here write down all you can know about HTML and the different tags from the lesson and from the example page. Make sure to mark it all up with valid HTML, and make sure that it is properly indented!
-=======
+
 # CFG Week One
 ## Intro to the world of the web and HTML
 
@@ -40,4 +40,3 @@ Open the file `index.html` in your text editor and in Chrome, change it into val
 
 ## Extension task
 Create a new file called `html-cheatsheet.html`. In here write down all you can know about HTML and the different tags from the lesson and from the example page. Make sure to mark it all up with valid HTML, and make sure that it is properly indented!
->>>>>>> ecc1922849a7281b50799c6a79a5fb901b28359d
